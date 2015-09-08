@@ -1,7 +1,7 @@
 PeanutButterJellyRecipe
 
 Gather all materials
-Materials include: Bread (2 slices), jar of peanut butter, jar of jelly, and a spoon
+Materials include: Plate, Bread (2 slices), jar of peanut butter, jar of jelly, and a spoon
 
 1. Place your plate on a table and then place the bread on the plate
 2. Get your Peanut Butter and twist the top off. Do the same for the jar of Jelly
